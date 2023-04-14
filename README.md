@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @windrunner21
-- 👀 I’m interested in future
-- 💞️ I’m looking to collaborate on any innovative projects
+- 👀 I’m interested in iOS Development, Full Stack Development and FinTech Startups.
+- 💞️ I’m looking to collaborate on any innovative projects!
 - 📫 Reach me via email: haciyev008@gmail.com
 
 <!---
