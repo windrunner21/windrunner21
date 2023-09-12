@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @windrunner21
-- 👀 I’m interested in iOS Development, Full Stack Development and FinTech Startups.
-- 💞️ I’m looking to collaborate on any innovative projects!
-- 📫 Reach me via email: haciyev008@gmail.com
+- 👋 Hi, I'm Imran
+- 👀 Interested in iOS Development, Software Engineering and FinTech Startups.
+- 💞️ Always looking to collaborate on any innovative projects!
+- 📫 Reach me via email: imranhajiyev@icloud.com
 
 <!---
 windrunner21/windrunner21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
