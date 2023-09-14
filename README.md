@@ -5,9 +5,10 @@ I believe that if an engineer can build something that will affect lives even of
 I take great care, attention to details and architecture when building software as I always try to come up with the best possible solution. 
 A number of my personal projects are open-source, hope they can motivate, help or interest people passing by. Trying my best to find free time and contribute to open source projects.
 
-You might be also interested in a [OderoPay SDK](https://github.com/TokenPayEng/oderopay-ios) that I have wrote for iOS. 💳📲
-  
+- You might be also interested in a [OderoPay SDK](https://github.com/TokenPayEng/oderopay-ios) that I have wrote for iOS. 💳📲
 - Freelance work? Sure, reach me out at [email](mailto:haciyev008@gmail.com) 💼
+
+
 
 **Recent Languages and Tools:**
 
