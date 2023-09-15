@@ -33,6 +33,7 @@ A number of my personal projects are open-source, hope they can motivate, help o
 
 **My Personal Github Statistics. 📈📊**
 
-Working on improving it! ⌛️
+On work GitLab account I'm pushing to private repositories. 🔒
+Working on improving my personal statistics! ⌛️
 
 <img src="https://github-readme-stats.vercel.app/api?username=windrunner21&show_icons=true&theme=dark" alt="imranhajiyev" />
