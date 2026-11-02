@@ -1,11 +1,15 @@
-## Hello there 👋
+## Imran Hajiyev
 
-My name is [Imran Hajiyev](https://imranhajiyev.netlify.app), I'm a Software Engineer @[OderoPay](https://oderopay.com.tr) and a Founding iOS Engineer @[GridRun](https://gridrun.live). I have a passion for Swift and iOS Development 👨‍💻, as well as really enjoy my current ongoing and expanding expertise in financial technologies 💳. 
+Just a guy who builds products end to end: web platforms, iOS apps,
+and the developer tools underneath them. Currently working as a founding engineer at
+[MessagePlus](https://messageplus.io).
 
-I believe that if an engineer can build something that will affect lives even of a small amount of people, they should more than definitely do it! ✅
-
-I take great care, attention to details and architecture when building software as I always try to come up with the best possible solution. 
-A number of my personal projects are open-source, hope they can motivate, help or interest people passing by. Trying my best to find free time and contribute to open source projects.
-
-- You might be also interested in a [OderoPay iOS SDK](https://github.com/TokenPayEng/oderopay-ios) that I have wrote at my job. 💳📲
-- Freelance work? Sure, reach me out at [gmail](mailto:haciyev008@gmail.com) 💼
+Some fun bullet points
+- built a payment service provider on my own in four months: checkout, merchant dashboard, admin panel, and API
+- designed and wrote the [OderoPay iOS SDK](https://github.com/TokenPayEng/oderopay-ios), plus OderoPay's subscriptions module, its WooCommerce plugin, and the merchant and admin panels
+- joined Quality Care Global as CTO and was promoted to CEO
+- shipped [GridRun](https://github.com/windrunner21/gridrunner-iOS), a realtime two-player strategy game, to the App Store
+- wrote [lullaby](https://github.com/windrunner21/lullaby), a music engine for Discord bots in Go: twice as fast as Lavalink to the first song, in about a seventh of the memory
+- building [harmo](https://github.com/windrunner21/harmo), a CSS-first UI library whose React components render exactly the HTML in its docs
+- made [keypeek](https://github.com/windrunner21/omarchy-keypeek), a live overlay of my Moonlander's keys and layers for Omarchy
+- I speak English, Azerbaijani, Turkish and Russian (that's twice the branching factor of a BST)
